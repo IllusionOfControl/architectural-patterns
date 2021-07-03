@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ApplicationWindow" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\ApplicationWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IconWindow" Collapsed="true">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\IconWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PMWindowImp" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgEAAAAEAAQAAAAJAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\PMWindowImp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\View.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Window" Collapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAABAAIYAJAAAABAAAQAAQAAAIQEADCACAAIA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\Window.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowImp" Collapsed="true">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAASAAAAAQgEAAAAAAAAAAAAAAAAAAAIAAAQAAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\WindowImp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowSystemFactory" Collapsed="true">
+    <Position X="11" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAgA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\WindowSystemFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drawable" Collapsed="true">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\XWindowImp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GC" Collapsed="true">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\XWindowImp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XWindowImp" Collapsed="true">
+    <Position X="6.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkAAAAAFAABAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\XWindowImp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PPOINTL" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\PMWindowImp.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="HPS" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Illusion of control\git\Design-Patterns-GoF\Structural_Patterns\Bridge\PMWindowImp.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
