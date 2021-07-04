@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fb81afc9-f0d3-46d2-95dc-8d74cdd1ce45}</ProjectGuid>
-    <RootNamespace>bridge</RootNamespace>
+    <ProjectGuid>{83bafe27-8b2e-4d0b-9cf8-eb1b5ed533de}</ProjectGuid>
+    <RootNamespace>command</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
